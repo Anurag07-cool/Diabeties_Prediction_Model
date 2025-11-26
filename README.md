@@ -103,7 +103,7 @@ Go to:http://127.0.0.1:5000/
 📸 UI Screenshots
 -----------------
 
-![Uploading image.png…]()
+https://github.com/Anurag07-cool/Diabeties_Prediction_Model/blob/main/Screenshot%202025-11-26%20081636.png
 
 🤝 Contributing
 ---------------
