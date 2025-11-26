@@ -54,22 +54,31 @@ The dataset was cleaned, split, and used to train the logistic regression model.
 📂 Folder Structure
 -------------------
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Diabetes-Prediction-App/  │── app.py  │── model.pkl  │── scaler.pkl  │── diabetes.csv  │── requirements.txt  │── README.md  │── templates/  │     └── index.html  │── static/        └── style.css   `
+`   Diabetes-Prediction-App/  
+│── app.py  
+│── model.pkl  
+│── diabetes.csv  
+│── requirements.txt  
+│── README.md  
+│── templates/  
+│     └── index.html  
+│── static/
+        └── style.css   `
 
 🖥️ How to Run Locally
 ----------------------
 
 ### 1️⃣ Clone the repository
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   git clone https://github.com/your-username/Diabetes-Prediction-App.git  cd Diabetes-Prediction-App   `
+` git clone https://github.com/your-username/Diabetes-Prediction-App.git  cd Diabetes-Prediction-App   `
 
 ### 2️⃣ Install dependencies
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   pip install -r requirements.txt   `
+`   pip install -r requirements.txt   `
 
 ### 3️⃣ Run the app
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   python app.py   `
+`   python app.py   `
 
 ### 4️⃣ Open in browser
 
